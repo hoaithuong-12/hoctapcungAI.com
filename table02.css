@@ -1,0 +1,37 @@
+td,tr {
+    font-size: 25px;
+    border: 1px solid #333;
+    border-collapse:collapse;  
+    margin-top: 20px;
+}
+table{
+    font-size: 25px;
+    border: 1px solid #333;
+    border-collapse:collapse;  
+    margin-top: 40px;
+    margin-left:100px;
+}
+
+td,th {
+    padding: 2px 4px;
+}
+tr{
+    text-align: center;
+}
+
+input[type="text"]{
+    width:40px;
+    text-align: center;
+}
+body {
+    background-image: url(https://mega.com.vn/media/news/2707_nen-slide-chu-de-giao-duc10.jpg);
+}
+.head_tilte{
+    margin:auto;
+    margin-top: 40px;
+    text-align: center;
+    background-color: bisque;
+    width:400px;
+    height:50px;
+    border-radius:20px;
+}

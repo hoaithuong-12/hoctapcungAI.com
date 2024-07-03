@@ -1,0 +1,74 @@
+.head_khung-1{
+    background-color:#ea17aa95;
+    width:600px;
+    height:70px;
+    
+    margin:auto;
+    text-align: center;
+    border-radius: 15px;
+}
+
+h1{
+    padding-top:20px;
+    font-size:30px;
+    line-height: 40px;
+    color:rgb(242, 244, 247);
+}
+ 
+/* CSS TỔ HỢP*/
+.head_th {
+    display:flex;
+    justify-content:space-between;
+    margin-top: 70px;
+    
+    
+}
+
+
+
+.th-1{
+    background-color: rgb(171, 234, 218);
+    width:250px;
+    border-radius: 10px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 25px;
+    line-height: 40px;
+
+}
+.head_th-link{ 
+    text-decoration: none;
+}
+p,h2 {
+    color:black;
+}
+.th-2,
+.th-3,
+.th-4 {
+    background-color:rgb(171, 234, 218);
+    width:260px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 25px;
+    line-height: 35px;
+    
+}
+.head_note{
+    text-align: center;
+    background-color: rgb(241, 170, 224);
+    border-radius: 10px;
+    width:800px;
+    margin:auto;
+    margin-top: 30px;
+    font-size: 25px;
+}
+body{
+    background-image: url(https://img.freepik.com/free-vector/flat-international-day-education-background_23-2151081135.jpg?t=st=1719874832~exp=1719878432~hmac=418876913eaf33be081d03036358c2fa778d78f0137a2f31f59b74a53506cf95&w=900);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+
+
+    
